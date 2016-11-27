@@ -1,2 +1,2 @@
 # AccountMS
-Android-家庭个人理财助手
+Android-个人理财助手
